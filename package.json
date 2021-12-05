@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "snipe": "node buy_tokens.js"
+    "buy": "node buy_tokens.js",
+    "sell": "node sell_token.js"
   },
   "author": "",
   "license": "ISC",

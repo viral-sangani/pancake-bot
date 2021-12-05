@@ -6,27 +6,6 @@
 * [Setup](#HOW-TO-RUN)
 * [TroubleShoot](#TROUBLESHOOT)
 
-### NOW THE BOT IS POSSIBLE FOR KUCOIN AND MATIC NETWORK
-
-## IMPORTANT NOTES BEFORE RUNNING THE BOT
-Just edit some part of the bot, you can see the origin at : https://github.com/MrFatoni/p
-
-## NEW UPDATES
-1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
-2. Join free discord channel for more information : https://discord.gg/dtWDN5JWB5
-
-## NOW LAUNCH ADVANCED BOT
-With more feature and benefit
-### Demo for sonic advanced bot :
-1. drive : https://bit.ly/3vkSum0
-2. SONIC DEGEN SCANNER : https://t.me/degenScanner
-3. website : http://sonicsniperbot.com/
-
-<img src="./assets/advanced.png">
-
-### What's will you get
-To avoid scam, I will invite you to my private repository, and you will get whole of code, and any update if I push new update. Please only contact to Discord : <code>countdown#4008</code> or <code>nafidinara@gmail.com</code> with subject <b>PancakeSwap Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
-
 ## HOW TO RUN
 1. clone this repository
 2. $ npm install
@@ -87,15 +66,3 @@ All this bot feature are free, I'm never sell this bot, and I'm never share my T
 - your gas price are to small
 - your GWEI are to small (use 15+ for early token)
 - your slippage are to small (use 30+ for early token)
-
-* Error with node :
-  
- <img src="./assets/wss-error.png">
-  
-Hi all, for now <code>wss://bsc-ws-node.nariox.org:443</code> it won't be able to use again forever. for that you can use private node or build your own node. it more faster than public node.
-there is my recommend for private node : 
-  1. https://getblock.io/en/
-  2. https://www.quicknode.com/
-  3. https://www.ankr.com/ <br>
-   
-We also rent a full node with cheapest and also faster speed, you will get installation guide and maintenance for that just for $70/month, you can compare with private node that I recommend. The different full node with private node is, full node build in our own vps, so we can manage the speed and performance. for more info you can contact on discord : <code>countdown#4008</code>
